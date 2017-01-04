@@ -1,0 +1,23 @@
+img {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: blue;
+}
+li {
+  color: white;
+  text-align: center
+}
+.showstitle {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+
+.column {
+  width: 300px;
+  float: left;
+}
